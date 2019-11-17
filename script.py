@@ -59,14 +59,14 @@ options = {
 jira = JIRA(options, basic_auth=(CONST_USERNAME, CONST_PASSWORD))
 
 new_dic = {}
-new_dic['amit.s.r'] = []
-new_dic['balajiv'] = []
-new_dic['kush.agrawal'] = []
-new_dic['samanway.dey'] = []
-new_dic['senthil.gs'] = []
-new_dic['s.bhuwalka'] = []
-new_dic['visu.bharti'] = []
-new_dic['yugjeet.s'] = []
+new_dic['username1'] = []
+new_dic['username2'] = []
+new_dic['username3'] = []
+new_dic['username4'] = []
+new_dic['username5'] = []
+new_dic['username6'] = []
+new_dic['username7'] = []
+new_dic['username8'] = []
 
 for i in new_dic:
     for j in range(0, 3):
